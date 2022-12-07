@@ -1,4 +1,4 @@
-public class Topic_22_Two_Sum {
+public class Two_Sum {
 	static int target = 9;
 	static int[] nums = { 2, 7, 11, 15 };
 
